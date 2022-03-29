@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Feb 2022 10:42:22 at http://66.29.141.231/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://66.29.141.231/ -O1 "D:\RTP OKE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:42:22	Warning: 	Found for 66.29.141.231/robots.txt
+10:42:22	Warning: 	File has moved from 66.29.141.231/robots.txt to http://66.29.141.231/
+10:45:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 586208 got 542785): 66.29.141.231/assets/bg-main.jpg
+11:00:03	Warning: 	Retry after error -4 (Incorrect length (542785 Bytes, 586208 expected)) at link 66.29.141.231/assets/bg-main.jpg (from 66.29.141.231/css/slot.css?ver=2.1.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 43 seconds : 2045 links scanned, 2043 files written (28169685 bytes overall) [25978653 bytes received at 24438 bytes/sec], 3147664 bytes transferred using HTTP compression in 54 files, ratio 7%, 51.6 requests per connection
+(No errors, 4 warnings, 0 messages)
